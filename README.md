@@ -52,7 +52,7 @@ Grâce à mes études et à mes projets personnels, j’ai développé des comp�
 - Outil d’analyse automatisée permettant de **traiter et filtrer des fichiers de logs** pour en extraire les informations pertinentes (erreurs, adresses IP, dates, etc.).  
 - Génère un **rapport synthétique et lisible** afin de faciliter la supervision, le diagnostic et la maintenance des systèmes.  
 
-🔗 [Voir le dépôt](https://github.com/mr22266/Analyse-Logs-Python) | [Documentation](https://mr22266.github.io/Analyse-Logs-Python)
+🔗 [Voir le dépôt](https://github.com/BenCsn-sudo/Projet---Analyse-de-Log-Apache)
 
 ---
 
