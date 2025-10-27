@@ -48,7 +48,7 @@ Grâce à mes études et à mes projets personnels, j’ai développé des comp�
 
 ## Projets Récents
 
-### 🧾 Analyse Logs Python  
+### 🧾 Analyse de Logs Apache en Python  
 - Outil d’analyse automatisée permettant de **traiter et filtrer des fichiers de logs** pour en extraire les informations pertinentes (erreurs, adresses IP, dates, etc.) et **détecter de potentiels attaques** (DDoS).  
 - Génère un **rapport synthétique et lisible** afin de faciliter la supervision, le diagnostic et la maintenance des systèmes.  
 
