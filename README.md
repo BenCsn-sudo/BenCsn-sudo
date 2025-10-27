@@ -28,6 +28,7 @@ Grâce à mes études et à mes projets personnels, j’ai développé des comp�
 
 ### 🧩 Bases de Données
 - **SQL :** MySQL
+- **Methode Merise**
 
 ### 🔗 Blockchain & Web3
 - **Langage :** Solidity  
