@@ -58,7 +58,7 @@ Grâce à mes études et à mes projets personnels, j’ai développé des comp�
 - Conception d’une **base de données relationnelle MySQL** suivant la **méthode Merise** (MCD, MLD, MPD) pour la gestion et l’analyse de données environnementales.  
 - Implémentation complète avec **scripts SQL**, **jointures complexes** et **requêtes analytiques** permettant d’extraire des statistiques sur la base de données.  
 
-🔗 [Voir le dépôt](https://github.com/BenCsn-sudo/Projet-ClearData---)
+🔗 [Voir le dépôt](https://github.com/BenCsn-sudo/Projet-ClearData---Modelisation-et-Conception-de-Base-de-Donnees-Relationnelle)
 
 
 ---
