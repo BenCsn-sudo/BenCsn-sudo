@@ -61,6 +61,16 @@ Grâce à mes études et à mes projets personnels, j’ai développé des comp�
 
 🔗 [Voir le dépôt](https://github.com/BenCsn-sudo/Projet-ClearData---Modelisation-et-Conception-de-Base-de-Donnees-Relationnelle)
 
+### 🌍 WWW – Worldwide Weather Watcher (Station Météo Embarquée)
+
+ - Conception d’une **station météo embarquée autonome**, intégrant plusieurs capteurs environnementaux (BME280, GPS, capteur de luminosité) pour la mesure de la température, pression, humidité, luminosité et position géographique.
+
+ - **Enregistrement automatique des données** sur carte SD via bus SPI, avec gestion d’horloge RTC (I²C), interface série de configuration, et indication d’état système par LED RGB P9813.
+
+ - Fonctionnement en **plusieurs modes** (Standard, Éco, Configuration, Maintenance) avec interaction utilisateur via **deux boutons poussoirs**.
+
+🔗 [Voir le dépôt](https://github.com/BenCsn-sudo/Projet-WWW---World-Weather-Watcher)
+
 
 ---
 
