@@ -1,9 +1,11 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Benjamin%20Cousin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ingénieur%20Informatique%20%7C%20CESI&descAlignY=60&descSize=25" width="100%" alt="Header Benjamin Cousin"/>
+</div>
 
-# 👋 Bienvenue sur le GitHub de Benjamin Cousin
+<div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=500&lines=Futur+Ing%C3%A9nieur+en+Informatique;Back-End+%7C+Syst%C3%A8mes+%7C+Blockchain;%C3%80+la+recherche+stage+Avril-Aout+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Futur+Ing%C3%A9nieur+en+Informatique;Back-End+%7C+Syst%C3%A8mes+%7C+Blockchain;%C3%80+la+recherche+stage+Avril-Aout+2026" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -55,7 +57,7 @@ Voici une sélection de mes travaux récents. Ces projets illustrent ma capacit�
 | Projet | Description | Techno |
 | :--- | :--- | :--- |
 | **🌍 World Weather Watcher** | **Station météo embarquée autonome.** <br>Enregistrement de données sur carte SD, capteurs (BME280, GPS), gestion d'énergie et modes via interruptions. | `C` `Embedded` `Hardware` |
-| **🧾 Game of Life** | **Jeu de la vie en POO (C++)** <br>Jeu complet en C++ utilisant tout les domaines complexe de la programation orienté objet avec implémentation en multi-threading. | `C++` `POO` `Software` |
+| **🧾 Game of Life** | **Jeu de la vie en POO (C++)** <br>Jeu complet en C++ utilisant tous les domaines complexes de la programmation orientée objet avec implémentation en multi-threading. | `C++` `POO` `Software` |
 
 <br/>
 
