@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Benjamin%20Cousin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ingénieur%20Informatique%20%7C%20CESI&descAlignY=60&descSize=25" width="100%" alt="Header Benjamin Cousin"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=280&section=header&text=Benjamin%20Cousin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ingénieur%20Informatique%20%7C%20CESI&descAlignY=60&descSize=25" width="100%" alt="Header Benjamin Cousin"/>
 </div>
 
 <div align="center">
