@@ -3,7 +3,7 @@
 # 👋 Bienvenue sur le GitHub de Benjamin Cousin
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=500&lines=Futur+Ing%C3%A9nieur+en+Informatique;Back-End+%7C+Syst%C3%A8mes+%7C+Blockchain;%C3%80+recherche+stage+Avril-Aout+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=500&lines=Futur+Ing%C3%A9nieur+en+Informatique;Back-End+%7C+Syst%C3%A8mes+%7C+Blockchain;%C3%80+la+recherche+de+stage+Avril-Aout+2026" alt="Typing SVG" />
 </a>
 
 <br/>
