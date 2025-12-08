@@ -55,7 +55,7 @@ Voici une sélection de mes travaux récents. Ces projets illustrent ma capacit�
 | Projet | Description | Techno |
 | :--- | :--- | :--- |
 | **🌍 World Weather Watcher** | **Station météo embarquée autonome.** <br>Enregistrement de données sur carte SD, capteurs (BME280, GPS), gestion d'énergie et modes via interruptions. | `C` `Embedded` `Hardware` |
-| **🧾 Analyse de Logs Apache** | **Outil de cybersécurité.** <br>Script automatisé pour parser, filtrer et analyser les logs serveur afin de détecter des anomalies ou attaques (DDoS). | `Python` `Security` `Automation` |
+| **🧾 Game of Life** | **Jeu de la vie en POO (C++)** <br>Jeu complet en C++ utilisant tout les domaines complexe de la programation orienté objet avec implémentation en multi-threading. | `C++` `POO` `Software` |
 
 <br/>
 
@@ -69,11 +69,11 @@ Voici une sélection de mes travaux récents. Ces projets illustrent ma capacit�
 
 ## 🎯 Objectifs Professionnels
 
-Mon ambition est de devenir **Ingénieur en développement logiciel**, spécialisé dans les architectures performantes et sécurisées.
+Mon ambition est de devenir **Ingénieur en développement logiciel et IA**, spécialisé dans les architectures performantes et sécurisées ainsi que l'automatisation par l'IA.
 
 📌 **Recherche actuelle : Stage Assistant Ingénieur**
 * **Période :** Du 6 avril 2026 au 21 juillet 2026.
-* **Domaines :** Back-end, Algorithmique, Systèmes ou Blockchain.
+* **Domaines :** IA (ML/DL), Back-End, Algorithmique, Systèmes ou Blockchain.
 * **Objectif N+1 :** Poursuivre sur une **alternance** à partir d’octobre 2026.
 
 ---
