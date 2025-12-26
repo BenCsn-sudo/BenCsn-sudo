@@ -71,11 +71,11 @@ Voici une sélection de mes travaux récents. Ces projets illustrent ma capacit�
 
 ## 🎯 Objectifs Professionnels
 
-Mon ambition est de devenir **Ingénieur en développement logiciel et IA**, spécialisé dans les architectures performantes et sécurisées ainsi que l'automatisation par l'IA.
+Mon ambition est de devenir **Ingénieur en Réseaux et Infrastructure**, spécialisé dans les architectures performantes et sécurisées.
 
 📌 **Recherche actuelle : Stage Assistant Ingénieur**
 * **Période :** Du 6 avril 2026 au 21 juillet 2026.
-* **Domaines :** IA (ML/DL), Back-End, Algorithmique, Systèmes ou Blockchain.
+* **Domaines :** Réseaux, Infrastructure, Algorithmique, Blockchain, IA (ML/DL).
 * **Objectif N+1 :** Poursuivre sur une **alternance** à partir d’octobre 2026.
 
 ---
