@@ -75,12 +75,16 @@ Voici une sélection de mes travaux récents. Ces projets illustrent ma capacit�
 
 ## 🎯 Objectifs Professionnels
 
-Mon ambition est de devenir **Ingénieur en Réseaux et Infrastructure**, spécialisé dans les architectures performantes et sécurisées.
+Mon ambition est de devenir **Ingénieur DevSecOps**, spécialisé dans la sécurisation des architectures réseaux et l'automatisation des infrastructures.
 
-📌 **Recherche actuelle : Stage Assistant Ingénieur**
+🚀 **Recherche Prioritaire : Alternance (Dès Octobre 2026)**
+* **Contrat :** Apprentissage / Professionnalisation (Durée : 3 ans ou selon ton école).
+* **Rythme :** 5 semaines / 5 semaines
+* **Domaines cibles :** Cybersécurité, NetOps, Cloud Infrastructure, Audit & Pentest.
+
+📅 **Disponibilité immédiate : Stage Assistant Ingénieur**
 * **Période :** Du 6 avril 2026 au 21 juillet 2026.
-* **Domaines :** Réseaux, Infrastructure, Algorithmique, Blockchain, IA (ML/DL).
-* **Objectif N+1 :** Poursuivre sur une **alternance** à partir d’octobre 2026.
+* **Mission :** Administration Réseaux, Mise en place d'outils de sécurité, Scripting & Automatisation.
 
 ---
 
