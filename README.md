@@ -56,12 +56,13 @@
 
 ## 🚀 Projets à la Une
 
-Voici une sélection de mes travaux récents. Ces projets illustrent ma capacité à travailler sur du bas niveau (embarqué), du script d'administration et de la conception de données.
+Voici une sélection de mes travaux récents axés sur la **Cybersécurité**. Ces projets illustrent ma capacité à couvrir l'ensemble du spectre de sécurité : de l'audit offensif à la défense active, en passant par l'analyse forensique de données.
 
 | Projet | Description | Techno |
 | :--- | :--- | :--- |
-| **🌍 World Weather Watcher** | **Station météo embarquée autonome.** <br>Enregistrement de données sur carte SD, capteurs (BME280, GPS), gestion d'énergie et modes via interruptions. | `C` `Embedded` `Hardware` |
-| **🧾 Game of Life** | **Jeu de la vie en POO (C++)** <br>Jeu complet en C++ utilisant tous les domaines complexes de la programmation orientée objet avec implémentation en multi-threading. | `C++` `POO` `Software` |
+| **⚔️ Red Team Ops Framework** | **Framework de Pentest & Audit Offensif.** <br>Scanner réseau hybride (Connect/SYN furtif), manipulation de paquets bas niveau (Scapy) et Fuzzing de services multithreadé. | `Python` `Scapy` `Red Team` |
+| **🛡️ Sentinelle (SOAR)** | **Sonde de défense active & Auto-Remédiation.** <br>Système IDS/IPS temps réel analysant les logs (SQLi, XSS, LFI) et déclenchant un bannissement automatique via le pare-feu système. | `Python` `Bash` `Blue Team` |
+| **📊 Apache Log Analyzer** | **Outil de Forensics & Visualisation de Données.** <br>Parsing automatisé de logs serveurs pour la détection d'anomalies (DDoS, Bots) et génération de rapports graphiques dynamiques. | `Python` `Matplotlib` `Data` |
 
 <br/>
 
