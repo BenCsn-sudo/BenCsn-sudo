@@ -12,8 +12,8 @@
 
 <p align="center">
   <b>Étudiant @ CESI École d'Ingénieurs</b><br>
-  Passionné par le code, l’innovation et l'architecture logicielle.<br>
-  <i>Actuellement à la recherche d’un stage (Avril - Juillet 2026).</i>
+  Passioné par le réseaux et la cybersécurité<br>
+  <i>Actuellement à la recherche d’une alternance pour octobre 2026 (3ans).</i>
 </p>
 
 <a href="https://www.linkedin.com/in/benjamin-cousin-3b8622394">
