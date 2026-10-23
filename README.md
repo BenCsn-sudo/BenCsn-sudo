@@ -13,17 +13,17 @@ Nice, France
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛡️ [Red Team Ops Framework (RTOF)](Link_to_RTOF)
+### [Red Team Ops Framework (RTOF)](Link_to_RTOF)
 *Automated Pentesting Framework & Offensive Security Audit*
 Modular Python tool designed to automate reconnaissance, analysis, and penetration testing phases. Includes stealth scanning (Scapy) and service fuzzing modules.
 
-### 👁️ [Sentinelle: SIEM & Auto-Remediation (Blue Team)](Link_to_Sentinelle)
+### [Sentinelle: SIEM & Auto-Remediation (Blue Team)](Link_to_Sentinelle)
 *Active Defense Probe (Mini-SOAR)*
 Python script for real-time server log monitoring (Live Forensics) coupled with active response via the firewall (UFW) to block intrusions.
 
-### 📚 [Network Survival Kit](Link_to_Network_Survival_Kit)
+### [Network Survival Kit](Link_to_Network_Survival_Kit)
 *Structured documentation of my Networking journey*
 Summaries, architectural diagrams, and practical scripts for mastering network fundamentals (VLAN, Routing, VPN).
 
