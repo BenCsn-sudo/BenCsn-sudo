@@ -1,7 +1,6 @@
 # Benjamin Cousin
 
 **Cybersecurity Analyst | Network & Offensive Security**
-Nice, France
 
 ---
 
