@@ -5,7 +5,7 @@ Nice, France
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 *   **Offensive Security:** Pentesting, Vulnerability Assessment, Red Teaming (Foundations).
 *   **Infrastructure & Networking:** Systems Administration (Linux), Network Architecture (Cisco, Juniper), Security (Firewalls).
